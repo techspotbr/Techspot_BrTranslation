@@ -1,0 +1,29 @@
+{
+    "name": "techspot/mage2-locale-pt-br",
+    "description": "Portuguese Brazil language",
+    "homepage": "http://www.techspot.com.br",
+    "license": [
+        "MIT"
+    ],
+    "require": {
+        "magento/framework": "^100.0.0 || ^101.0.0"
+    },
+    "type": "magento2-language",
+    "version": "1.0.1",
+    "license": [
+        "MIT"
+    ],
+    "authors": [
+        {
+          "name": "TechSpot team",
+          "email": "babumsouza1@gmail.com",
+          "homepage": "http://www.techspot.com.br",
+          "role": "Leader"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}
