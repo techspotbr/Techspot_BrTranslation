@@ -4285,7 +4285,7 @@
 "New Segment","Novo segmento",module,Magento_CustomerSegment
 "Segment Information","Informação por segmentos",module,Magento_CustomerSegment
 "Conditions","Condições",module,Magento_CustomerSegment
-"* applicable to visitors and registered customers","* Aplicável aos visitantes e clientes registados",module,Magento_CustomerSegment
+"* applicable to visitors and registered customers","* Aplicável aos visitantes e clientes Registrados",module,Magento_CustomerSegment
 "General Properties","Propriedades gerais",module,Magento_CustomerSegment
 "Segment Name","Nome do segmento",module,Magento_CustomerSegment
 "Description","Descrição",module,Magento_CustomerSegment
@@ -4295,7 +4295,7 @@
 "Inactive","Inativo",module,Magento_CustomerSegment
 "Apply To","Aplicar a",module,Magento_CustomerSegment
 "Visitors and Registered Customers","Visitantes e Clientes",module,Magento_CustomerSegment
-"Registered Customers","Clientes registados",module,Magento_CustomerSegment
+"Registered Customers","Clientes Registrados",module,Magento_CustomerSegment
 "Visitors","Visitantes",module,Magento_CustomerSegment
 "Please save this information to specify segmentation conditions.","Por favor, salve essas informações para especificar as condições de segmentação.",module,Magento_CustomerSegment
 "Matched Customers (%1)","Clientes correspondentes (%1)",module,Magento_CustomerSegment
@@ -4769,8 +4769,8 @@
 "Default Link Title","Título do Link padrão",module,Magento_Downloadable
 "Open Links in New Window","Abrir Links em nova janela",module,Magento_Downloadable
 "Use Content-Disposition","Usar Disposição de Conteúdo",module,Magento_Downloadable
-"Disable Guest Checkout if Cart Contains Downloadable Items","Desativar Checkout para Utilizadores Não Registados se o Carrinho Contiver Itens com Download",module,Magento_Downloadable
-"Guest checkout will only work with shareable.","O checkout para utilizadores não registados apenas funcionará com conteúdo partilhável.",module,Magento_Downloadable
+"Disable Guest Checkout if Cart Contains Downloadable Items","Desativar Checkout para Utilizadores Não Registrados se o Carrinho Contiver Itens com Download",module,Magento_Downloadable
+"Guest checkout will only work with shareable.","O checkout para utilizadores não Registrados apenas funcionará com conteúdo partilhável.",module,Magento_Downloadable
 "File directory '%1' is not readable.","Diretório do arquivo '%1' não é legível.",module,Magento_DownloadableImportExport
 "File directory '%1' is not writable.","Diretório do arquivo '%1' não é gravável.",module,Magento_DownloadableImportExport
 "Error","Erro",module,Magento_DownloadableImportExport
@@ -6285,7 +6285,7 @@
 "%inviter_name invites you to join Private Sales Site","%inviter_name convida-o a participar no Site de Vendas Privado",module,Magento_Invitation
 "Invite to join Private Sales Site","Convida-o a participar no Site de Vendas Privado",module,Magento_Invitation
 "Please accept this invitation to join %store_name.","Por favor aceite este convite para se juntar a %store_name.",module,Magento_Invitation
-"%store_name offers limited time sales of products only to members.","A %store_name oferece promoções de tempo limitado apenas aos utilizadores registados.",module,Magento_Invitation
+"%store_name offers limited time sales of products only to members.","A %store_name oferece promoções de tempo limitado apenas aos utilizadores Registrados.",module,Magento_Invitation
 "Please use the following link to create an account and view the deals:","Por favor, use o link a seguir para criar uma conta e ver as ofertas:",module,Magento_Invitation
 "Private Sales","Vendas privadas",module,Magento_Invitation
 "Invited Customers","Clientes Convidados",module,Magento_Invitation
@@ -6932,7 +6932,7 @@
 "Newsletter Template","Template de Newsletter",module,Magento_Newsletter
 "Newsletter Section","Secção da Newsletter",module,Magento_Newsletter
 "Subscription Options","Opções de assinaturas",module,Magento_Newsletter
-"Allow Guest Subscription","Permitir Subscrição a Utilizadores Não Registados",module,Magento_Newsletter
+"Allow Guest Subscription","Permitir Subscrição a Utilizadores Não Registrados",module,Magento_Newsletter
 "Need to Confirm","Pedir Confirmação",module,Magento_Newsletter
 "Confirmation Email Sender","E-mail remetente de confirmação",module,Magento_Newsletter
 "Confirmation Email Template","Confirmação do E-mail template",module,Magento_Newsletter
@@ -7649,7 +7649,7 @@
 "If this option is enabled, customer can change shipping address and shipping method on PayPal website. In live mode works via HTTPS protocol only.","Se esta opção estiver ativa, o cliente poderá alterar a morada e o modo de envio no site do PayPal. Em modo produção funcionará apenas através do protocolo HTTPS.",module,Magento_Paypal
 "Notice that PayPal can handle up to 10 shipping options. That is why Magento will transfer only first 10 cheapest shipping options if there are more than 10 available.","Note que o PayPal pode gerir até 10 opções de envio. Devido a isto, o Magento irá transferir apenas as 10 opções de envio mais baratas se existirem mais de 10.",module,Magento_Paypal
 "Shortcut Buttons Flavor","Tipo de Botões de Atalho",module,Magento_Paypal
-"Enable PayPal Guest Checkout","Ativar Checkout PayPal para Usuários Não Registados",module,Magento_Paypal
+"Enable PayPal Guest Checkout","Ativar Checkout PayPal para Usuários Não Registrados",module,Magento_Paypal
 "Ability for buyer to purchase without PayPal account.","Capacitar comprador para efetuar a compra sem uma conta PayPal.",module,Magento_Paypal
 "Require Customer's Billing Address","Exigir Endereço de Faturação do Cliente",module,Magento_Paypal
 "This feature needs be enabled first for the merchant account through PayPal technical support.","Esta funcionalidade precisa de ser primeiro ativada para a conta de comerciante através do suporte técnico do PayPal.",module,Magento_Paypal
