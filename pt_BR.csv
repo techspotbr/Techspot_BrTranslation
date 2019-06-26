@@ -12882,5 +12882,5 @@
 "Account Information","Informações da Conta",theme,frontend/Magento/luma
 "We have saved your subscription.","Sua inscrição foi realizada com sucesso!",module,Magento_Newsletter
 "We have removed your newsletter subscription.","Sua inscrição foi cancelada.",module,Magento_Newsletter
-"The quote item isn't found. Verify the item and try again.",module,Magento_Checkout
-"Please select one of each of the ratings above.",module,Magento_Review
+"The quote item isn't found. Verify the item and try again.","Item não encontrado no carrinho. Verifique e tente novamente.",module,Magento_Checkout
+"Please select one of each of the ratings above.","Por favor selecione um ou mais estrelas acima.",module,Magento_Review
