@@ -12880,3 +12880,4 @@
 "Account Dashboard","Painel do Cliente",theme,frontend/Magento/luma
 "Address Book","Catálogo de Endereços",theme,frontend/Magento/luma
 "Account Information","Informações da Conta",theme,frontend/Magento/luma
+"We have saved your subscription.","Sua inscrição foi realizada com sucesso!",module,Magento_Newsletter
