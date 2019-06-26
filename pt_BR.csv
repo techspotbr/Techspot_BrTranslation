@@ -12882,3 +12882,4 @@
 "Account Information","Informações da Conta",theme,frontend/Magento/luma
 "We have saved your subscription.","Sua inscrição foi realizada com sucesso!",module,Magento_Newsletter
 "We have removed your newsletter subscription.","Sua inscrição foi cancelada.",module,Magento_Newsletter
+"The quote item isn't found. Verify the item and try again.",module,Magento_Checkout
