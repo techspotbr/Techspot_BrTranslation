@@ -12885,3 +12885,4 @@
 "The quote item isn't found. Verify the item and try again.","Item não encontrado no carrinho. Verifique e tente novamente.",module,Magento_Checkout
 "Please select one of each of the ratings above.","Por favor selecione um ou mais estrelas acima.",module,Magento_Review
 "Rating","Avaliação",module,Magento_Review
+"Invalid Form Key. Please refresh the page.","Chave de formulário inválida. Por favor, atualize a página."
