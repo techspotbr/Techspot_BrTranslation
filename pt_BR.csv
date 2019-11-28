@@ -2691,7 +2691,7 @@
 "Invalid method: %1","Método inválido: %1",module,Magento_Checkout
 "City","Cidade",module,Magento_Checkout
 "Country","País",module,Magento_Checkout
-"State/Province","Estado/Província",module,Magento_Checkout
+"State/Province","Estado",module,Magento_Checkout
 "Zip/Postal Code","CEP",module,Magento_Checkout
 "My Cart (1 item)","Meu Carrinho (1 item)",module,Magento_Checkout
 "My Cart (%1 items)","Meu Carrinho (%1 itens)",module,Magento_Checkout
@@ -2777,7 +2777,7 @@
 "Excl. Tax","Excl. Impostos",module,Magento_Checkout
 "Loading...","Carregando...",module,Magento_Checkout
 "Order #","Pedido #",module,Magento_Checkout
-"Proceed to Checkout","Avançar para Checkout",module,Magento_Checkout
+"Proceed to Checkout","Finalizar Compra",module,Magento_Checkout
 "Product Name","Nome do produto",module,Magento_Checkout
 "Incl. Tax","Imposto Incl.",module,Magento_Checkout
 "Your order number is: %1.","O número do seu pedido é: %1.",module,Magento_Checkout
@@ -3843,7 +3843,7 @@
 "Street Address %1","Rua",module,Magento_Customer
 "VAT Number","CPF/CNPJ",module,Magento_Customer
 "City","Cidade",module,Magento_Customer
-"State/Province","Estado/Província",module,Magento_Customer
+"State/Province","Estado",module,Magento_Customer
 "Please select a region, state or province.","Por favor, selecione uma região, estado ou província.",module,Magento_Customer
 "Zip/Postal Code","CEP",module,Magento_Customer
 "Country","País",module,Magento_Customer
@@ -4223,7 +4223,7 @@
 "Street Address %1","Rua",module,Magento_CustomerCustomAttributes
 "VAT Number","Número VAT",module,Magento_CustomerCustomAttributes
 "City","Cidade",module,Magento_CustomerCustomAttributes
-"State/Province","Estado/Província",module,Magento_CustomerCustomAttributes
+"State/Province","Estado",module,Magento_CustomerCustomAttributes
 "Please select a region, state or province.","Por favor, selecione uma região, estado ou província.",module,Magento_CustomerCustomAttributes
 "Zip/Postal Code","CEP",module,Magento_CustomerCustomAttributes
 "Country","País",module,Magento_CustomerCustomAttributes
@@ -4427,7 +4427,7 @@
 "Phone","Telefone",module,Magento_CustomerSegment
 "ZIP","CEP",module,Magento_CustomerSegment
 "Country","País",module,Magento_CustomerSegment
-"State/Province","Estado/Província",module,Magento_CustomerSegment
+"State/Province","Estado",module,Magento_CustomerSegment
 "Customer Since","Cliente desde",module,Magento_CustomerSegment
 "View Combined Report","Exibir Relatório Combinado",module,Magento_CustomerSegment
 "Set","Definir",module,Magento_CustomerSegment
@@ -5500,7 +5500,7 @@
 "New Address","Novo Endereço",module,Magento_GiftRegistry
 "Edit Gift Registry","Editar a lista de presentes",module,Magento_GiftRegistry
 "Create Gift Registry","Criar lista de presentes",module,Magento_GiftRegistry
-"State/Province","Estado/Província",module,Magento_GiftRegistry
+"State/Province","Estado",module,Magento_GiftRegistry
 "Please select a region, state or province","Por favor, selecione uma região, estado ou província",module,Magento_GiftRegistry
 "Please Select","Por Favor Selecione",module,Magento_GiftRegistry
 "View Gift Registry %1","Ver lista de presente %1",module,Magento_GiftRegistry
@@ -6560,7 +6560,7 @@
 "Contact Name","Nome do contato",module,Magento_MultipleLocationInventory
 "Email","E-mail",module,Magento_MultipleLocationInventory
 "Country","País",module,Magento_MultipleLocationInventory
-"State/Province","Estado/Província",module,Magento_MultipleLocationInventory
+"State/Province","Estado",module,Magento_MultipleLocationInventory
 "City","Cidade",module,Magento_MultipleLocationInventory
 "Street","Rua",module,Magento_MultipleLocationInventory
 "ZIP","CEP",module,Magento_MultipleLocationInventory
@@ -6969,7 +6969,7 @@
 "Web Site","Website",module,Magento_Newsletter
 "Store","Loja",module,Magento_Newsletter
 "Store View","Visão de Loja",module,Magento_Newsletter
-"Newsletter Subscriptions","Subscrições da Newsletter",module,Magento_Newsletter
+"Newsletter Subscriptions","Newsletter",module,Magento_Newsletter
 "Make Check payable to:","Passe o cheque à ordem de:",module,Magento_OfflinePayments
 "Send Check to:","Enviar cheque para:",module,Magento_OfflinePayments
 "Purchase Order Number","Número do Pedido de Compra",module,Magento_OfflinePayments
@@ -8967,7 +8967,7 @@
 "Contact Name","Nome do contato",module,Magento_Rma
 "Street Address","Endereço",module,Magento_Rma
 "City","Cidade",module,Magento_Rma
-"State/Province","Estado/Província",module,Magento_Rma
+"State/Province","Estado",module,Magento_Rma
 "ZIP/Postal Code","CEP/Código Postal",module,Magento_Rma
 "Country","País",module,Magento_Rma
 "Enabled","Habilitado",module,Magento_Rma
@@ -9474,7 +9474,7 @@
 "Email","E-mail",module,Magento_Sales
 "First Name","Nome",module,Magento_Sales
 "Last Name","Sobrenome",module,Magento_Sales
-"State/Province","Estado/Província",module,Magento_Sales
+"State/Province","Estado",module,Magento_Sales
 "Street Address","Endereço",module,Magento_Sales
 "Phone Number","Número do Telefone",module,Magento_Sales
 "Zip/Postal Code","CEP",module,Magento_Sales
@@ -12762,7 +12762,7 @@
 "Configure","Configurar",module,Magento_Wishlist
 "Delete","Excluir",module,Magento_Wishlist
 "Product Details and Comment","Detalhes de Produto e Comentários",module,Magento_Wishlist
-"You must login or register to add items to your wishlist.","You must login or register to add items to your wishlist.",module,Magento_Wishlist
+"You must login or register to add items to your wishlist.","Você precisa estar logado para adicionar itens a sua lista de desejos.",module,Magento_Wishlist
 "Credit card type","Tipo de cartão de crédito",module,Magento_Worldpay
 "CVV result","Resultado CVV",module,Magento_Worldpay
 "Postcode AVS check","Verificação do Código Postal AVS",module,Magento_Worldpay
@@ -12819,7 +12819,7 @@
 "Summary","Resumo",theme,frontend/Magento/blank
 "Account Dashboard","Painel de Clientes",theme,frontend/Magento/blank
 "Account Information","Informações da Conta",theme,frontend/Magento/blank
-"Address Book","Catálogo de Endereços",theme,frontend/Magento/blank
+"Address Book","Meus Endereços",theme,frontend/Magento/blank
 "Menu","Menu",theme,frontend/Magento/blank
 "Account","Conta",theme,frontend/Magento/blank
 "Settings","Configurações",theme,frontend/Magento/blank
@@ -12888,3 +12888,4 @@
 "Invalid Form Key. Please refresh the page.","Chave de formulário inválida. Por favor, atualize a página."
 "Enter your destination to get a shipping estimate.","Informe seu CEP para calcular o frete."
 "Enter your billing address to get a tax estimate."Informe o cep para calcular taxas"
+"%1 has been removed from your Wish List.","%1 foi removido(a) da sua lista de desejos.",module,Magento_Wishlist
