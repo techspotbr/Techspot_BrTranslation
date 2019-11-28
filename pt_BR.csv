@@ -2772,8 +2772,8 @@
 "Remove item","Remover item",module,Magento_Checkout
 "You have no items in your shopping cart.","Você não possui nenhum item em seu carrinho de compras.",module,Magento_Checkout
 "Click <a href=""%1"">here</a> to continue shopping.","Clique <a href=""%1"">aqui</a> para continuar comprando.",module,Magento_Checkout
-"Estimate Tax","Consultar Valor do Imposto",module,Magento_Checkout
-"Estimate Shipping and Tax","Consultar Valor do Frete e Imposto",module,Magento_Checkout
+"Estimate Tax","Calcular Imposto",module,Magento_Checkout
+"Estimate Shipping and Tax","Simular Frete",module,Magento_Checkout
 "Excl. Tax","Excl. Impostos",module,Magento_Checkout
 "Loading...","Carregando...",module,Magento_Checkout
 "Order #","Pedido #",module,Magento_Checkout
@@ -12886,3 +12886,5 @@
 "Please select one of each of the ratings above.","Por favor selecione um ou mais estrelas acima.",module,Magento_Review
 "Rating","Avaliação",module,Magento_Review
 "Invalid Form Key. Please refresh the page.","Chave de formulário inválida. Por favor, atualize a página."
+"Enter your destination to get a shipping estimate.","Informe seu CEP para calcular o frete."
+"Enter your billing address to get a tax estimate."Informe o cep para calcular taxas"
